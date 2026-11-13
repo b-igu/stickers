@@ -234,5 +234,883 @@
             "encode",
             "CBR"
         ]
+    },
+    "cbr_cyber_guloso": {
+        "url": "https://files.catbox.moe/sb0gk5.png",
+        "tags": [
+            "guloso",
+            "CBR"
+        ]
+    },
+    "cbr_cypher_urubu_do_pix": {
+        "url": "https://img.ptscreens.com/image-37ceaee24302ee44e.png",
+        "tags": [
+            "urubu",
+            "pix",
+            "CBR"
+        ]
+    },
+    "cbr_pedido_atendido": {
+        "url": "https://i.ibb.co/DD7GSqWd/pedido-atendido.png",
+        "tags": [
+            "pedido",
+            "atendido",
+            "CBR"
+        ]
+    },
+    "cbr_hoje_tem_freeleech": {
+        "url": "https://i.ibb.co/wFpFDw4p/freeleech.png",
+        "tags": [
+            "freeleech",
+            "CBR"
+        ]
+    },
+    "cbr_bom_dia_comunidade": {
+        "url": "https://i.ibb.co/S4Mq3zsx/bom-dia-comunidade.png",
+        "tags": [
+            "bom_dia",
+            "bom",
+            "dia",
+            "comunidade",
+            "CBR"
+        ]
+    },
+    "cbr_bom_dia_floresta": {
+        "url": "https://i.ibb.co/TxwNKhRT/bom-dia-floresta.png",
+        "tags": [
+            "bom_dia",
+            "bom",
+            "dia",
+            "floresta",
+            "CBR"
+        ]
+    },
+    "cbr_melhor_tracker": {
+        "url": "https://i.ibb.co/LhHcZFwB/melhor-tracker.png",
+        "tags": [
+            "melhor",
+            "tracker",
+            "CBR"
+        ]
+    },
+    "cbr_merece_levar_ban": {
+        "url": "https://i.ibb.co/SS006g6/ban.png",
+        "tags": [
+            "ban",
+            "CBR"
+        ]
+    },
+    "cbr_upa_e_nao_semeia": {
+        "url": "https://i.ibb.co/hJYft2bC/upa-nao-semeia.png",
+        "tags": [
+            "upload",
+            "seed",
+            "CBR"
+        ]
+    },
+    "cbr_qualidade_horrivel": {
+        "url": "https://i.ibb.co/5yXmSJL/qualidade-horrivel.png",
+        "tags": [
+            "qualidade",
+            "horrivel",
+            "CBR"
+        ]
+    },
+    "cbr_por_que_nao_esta_semeando": {
+        "url": "https://i.ibb.co/YF5kgM2X/pq-n-o-t-semeando.png",
+        "tags": [
+            "seed",
+            "CBR"
+        ]
+    },
+    "cbr_cade_meus_bons": {
+        "url": "https://i.ibb.co/6RyQs51b/cade-meus-bons.png",
+        "tags": [
+            "bons",
+            "capycoins",
+            "CBR"
+        ]
+    },
+    "cbr_me_doe_bons": {
+        "url": "https://i.ibb.co/LDStNCtw/cobrando-bons.png",
+        "tags": [
+            "bons",
+            "capycoins",
+            "CBR"
+        ]
+    },
+    "cbr_tome_bons": {
+        "url": "https://i.ibb.co/YF59jwKs/tome-bons.png",
+        "tags": [
+            "bons",
+            "capycoins",
+            "CBR"
+        ]
+    },
+    "cbr_chega_de_enrolacao": {
+        "url": "https://i.ibb.co/m5P3XGNp/chega-enrolacao.png",
+        "tags": [
+            "enrolacao",
+            "enrolação",
+            "CBR"
+        ]
+    },
+    "cbr_sem_viadagens": {
+        "url": "https://i.ibb.co/HTJGstQ2/sem-viadagens.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_capivara_procurando_assistir": {
+        "url": "https://i.ibb.co/NgZ1ChYT/capivara-procurando-assistir.png",
+        "tags": [
+            "procurando",
+            "assistir",
+            "CBR"
+        ]
+    },
+    "cbr_capivara_pasta_patrimonio": {
+        "url": "https://i.ibb.co/dszcs3Hf/capivara-pasta-patrimonio.png",
+        "tags": [
+            "assistir",
+            "CBR"
+        ]
+    },
+    "cbr_capivara_mesmo_filme_4x": {
+        "url": "https://i.ibb.co/QFdspJKH/capivara-mesmo-filme-4x.png",
+        "tags": [
+            "filme",
+            "CBR"
+        ]
+    },
+    "cbr_capivara_mais_um_ep": {
+        "url": "https://i.ibb.co/7JQ5xPd0/capivara-mais-um-ep.png",
+        "tags": [
+            "episodio",
+            "episódio",
+            "CBR"
+        ]
+    },
+    "cbr_capivara_legenda_japao": {
+        "url": "https://i.ibb.co/gFHf5rbG/capivara-legenda-japao.png",
+        "tags": [
+            "legenda",
+            "CBR"
+        ]
+    },
+    "cbr_capivara_heroi_seeder": {
+        "url": "https://i.ibb.co/MDFfJbWh/capivara-heroi-seeder.png",
+        "tags": [
+            "herói",
+            "heroi",
+            "seed",
+            "CBR"
+        ]
+    },
+    "cbr_capivara_gabinete_fogo": {
+        "url": "https://i.ibb.co/cm8MgGj/capivara-gabinete-fogo.png",
+        "tags": [
+            "seed",
+            "CBR"
+        ]
+    },
+    "cbr_capivara_filme_ruim": {
+        "url": "https://i.ibb.co/ksQFcjdr/capivara-filme-ruim.png",
+        "tags": [
+            "filme",
+            "ruim",
+            "CBR"
+        ]
+    },
+    "cbr_capivara_comentando_qualidade": {
+        "url": "https://i.ibb.co/0jYnBdj7/capivara-comentando-qualidade.png",
+        "tags": [
+            "qualidade",
+            "CBR"
+        ]
+    },
+    "cbr_capivara_cena_escura": {
+        "url": "https://i.ibb.co/jkTVkgGk/capivara-cena-escura.png",
+        "tags": [
+            "filme",
+            "CBR"
+        ]
+    },
+    "cbr_capivara_audio_liquidificador": {
+        "url": "https://i.ibb.co/Q3YbqP0F/capivara-audio-liquidificador.png",
+        "tags": [
+            "audio",
+            "áudio",
+            "CBR"
+        ]
+    },
+    "cbr_capivara_1080p_cristo": {
+        "url": "https://i.ibb.co/LzS0rcVD/capivara-1080p-cristo.png",
+        "tags": [
+            "rip",
+            "CBR"
+        ]
+    },
+    "cbr_capivara_999": {
+        "url": "https://i.ibb.co/gbwLRW0W/capivara-999.png",
+        "tags": [
+            "trava",
+            "CBR"
+        ]
+    },
+    "cbr_capivara_80gb_vilao": {
+        "url": "https://i.ibb.co/Tx5LG1ZL/capivara-80gb-vilao.png",
+        "tags": [
+            "serie",
+            "série",
+            "CBR"
+        ]
+    },
+    "cbr_capivara_60gb_dormir": {
+        "url": "https://i.ibb.co/xK7JXFJD/capivara-60gb-dormir.png",
+        "tags": [
+            "filme",
+            "dormir",
+            "CBR"
+        ]
+    },
+    "cbr_capivara_senior_titulos": {
+        "url": "https://i.ibb.co/QF7mvR70/capivara-senior-titulos.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_capivara_respeite_seeder": {
+        "url": "https://i.ibb.co/whvhjnJq/capivara-respeite-seeder.png",
+        "tags": [
+            "seed",
+            "CBR"
+        ]
+    },
+    "cbr_capivara_hd_curso": {
+        "url": "https://i.ibb.co/GQv2wtP7/capivara-hd-curso.png",
+        "tags": [
+            "hd",
+            "curso",
+            "CBR"
+        ]
+    },
+    "cbr_capivara_gbs_kbs": {
+        "url": "https://i.ibb.co/HfYkqpt0/capivara-gbs-kbs.png",
+        "tags": [
+            "hd",
+            "CBR"
+        ]
+    },
+    "cbr_capivara_falta_disciplina": {
+        "url": "https://i.ibb.co/B2BCtSS4/capivara-falta-disciplina.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_capivara_curso_nunca_assistir": {
+        "url": "https://i.ibb.co/mFg31hFW/capivara-curso-nunca-assistir.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_capivara_colecionador_pdf": {
+        "url": "https://i.ibb.co/211pmkMf/capivara-colecionador-pdf.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_capivara_certificados_mentais": {
+        "url": "https://i.ibb.co/XZy9GWcw/capivara-certificados-mentais.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_capivara_certificado_pasta": {
+        "url": "https://i.ibb.co/RphQLCT9/capivara-certificado-pasta.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_capivara_80h_2x": {
+        "url": "https://i.ibb.co/DDjmbfGS/capivara-80h-2x.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_capivara_sextou_cola": {
+        "url": "https://i.ibb.co/vSYkW15/capivara-sextou-cola.png",
+        "tags": [
+            "sextou",
+            "CBR"
+        ]
+    },
+    "cbr_capivara_processando_absurdo": {
+        "url": "https://i.ibb.co/5hmnfb65/capivara-processando-absurdo.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_capivara_pix": {
+        "url": "https://i.ibb.co/qMc0g4n3/capivara-pix.png",
+        "tags": [
+            "pix",
+            "CBR"
+        ]
+    },
+    "cbr_capivara_invejoso": {
+        "url": "https://i.ibb.co/Sw60BXn8/capivara-invejoso.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_capivara_inteligencia": {
+        "url": "https://i.ibb.co/MkTy7MXB/capivara-inteligencia.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_capivara_fofoqueiro": {
+        "url": "https://i.ibb.co/V0PqYXJm/capivara-fofoqueiro.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_capivara_circo": {
+        "url": "https://i.ibb.co/BKsXb24G/capivara-circo.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_capivara_banhou_equivoco_te": {
+        "url": "https://i.ibb.co/hRnX5Wvt/capivara-banhou-equivoco-te.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_capivara_audacia": {
+        "url": "https://i.ibb.co/XxtMwZ6Z/capivara-audacia.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_capivara_fofocar": {
+        "url": "https://i.ibb.co/4R3sZfzD/capivara-fofocar.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_capivara_cego_final": {
+        "url": "https://i.ibb.co/jvPjzYh1/capivara-cego-final.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_capivara_vinganca": {
+        "url": "https://i.ibb.co/prkGDGH9/capivara-vinganca.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_capivara_tv_nao_aguenta": {
+        "url": "https://i.ibb.co/ycjRhg0s/capivara-tv-nao-aguenta.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_capivara_vilao_trabalho": {
+        "url": "https://i.ibb.co/JW80hV25/capivara-vilao-trabalho.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_capivara_tradutor_terror": {
+        "url": "https://i.ibb.co/MxNkPyn7/capivara-tradutor-terror.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_capivara_torrent_lento": {
+        "url": "https://i.ibb.co/0pWh5RP0/capivara-torrent-lento.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_capivara_serie_sem_roteiro": {
+        "url": "https://i.ibb.co/XrMs1PXm/capivara-serie-sem-roteiro.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_capivara_semeando_50": {
+        "url": "https://i.ibb.co/chBF4K8W/capivara-semeando-50.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_capivara_seed_obrigacao": {
+        "url": "https://i.ibb.co/Z60WnwgD/capivara-seed-obrigacao.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_capivara_rodou_liso": {
+        "url": "https://i.ibb.co/rRFLS4Wn/capivara-rodou-liso.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_capivara_rip_dublado": {
+        "url": "https://i.ibb.co/1tbvB77C/capivara-rip-dublado.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_capivara_ratio_autoestima": {
+        "url": "https://i.ibb.co/FLqbbGLK/capivara-ratio-autoestima.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_emoji_00_cold": {
+        "url": "https://i.ibb.co/QFcFy5hZ/00-cold.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_emoji_00_busy": {
+        "url": "https://i.ibb.co/8LyRj9p9/00-busy.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_emoji_00_wandering": {
+        "url": "https://i.ibb.co/ZR4wM1QP/00-wandering.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_emoji_00_suspect": {
+        "url": "https://i.ibb.co/Y70kMtrx/00-suspect.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_emoji_00_hot": {
+        "url": "https://i.ibb.co/Ps65MzX7/00-hot.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_emoji_00_geek": {
+        "url": "https://i.ibb.co/KjBwDbXq/00-geek.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_classes_01_tatu": {
+        "url": "https://i.ibb.co/N683HXjQ/01-Tatu.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_classes_01_tartaruga": {
+        "url": "https://i.ibb.co/cSQM8NHn/01-Tartaruga.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_classes_01_onca": {
+        "url": "https://i.ibb.co/WvywYSL9/01-Onca.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_classes_01_morcego": {
+        "url": "https://i.ibb.co/6jrnPwF/01-Morcego.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_classes_01_mico_leao": {
+        "url": "https://i.ibb.co/Y7BC7nXQ/01-Mico-Leao.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_classes_01_lobo_guara": {
+        "url": "https://i.ibb.co/PsSwDL2j/01-Lobo-Guara.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_classes_01_lesma": {
+        "url": "https://i.ibb.co/wZg3MZL5/01-Lesma.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_classes_01_caramelo": {
+        "url": "https://i.ibb.co/LzMSYyyp/01-Caramelo.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_classes_01_capivarinha": {
+        "url": "https://i.ibb.co/FLWwkfW9/01-Capivarinha.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_classes_01_capivara_master": {
+        "url": "https://i.ibb.co/NG5L25h/01-Capivara-Master.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_classes_01_arara": {
+        "url": "https://i.ibb.co/ynYwySHt/01-Arara.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_variedades_seedando": {
+        "url": "https://i.ibb.co/hxZjpggq/Seedando.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_variedades_reseed": {
+        "url": "https://i.ibb.co/Gv1Vsb5J/Reseed.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_variedades_pedidos": {
+        "url": "https://i.ibb.co/0pwvNzMh/Pedidos.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_variedades_no_seeders": {
+        "url": "https://i.ibb.co/JWr3FCss/No-seeders.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_variedades_convites": {
+        "url": "https://i.ibb.co/DfgBdf8X/Convites.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_variedades_capicoins": {
+        "url": "https://i.ibb.co/x8RtsXBC/Capicoins.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_anime_coin": {
+        "url": "https://i.ibb.co/qYNpL0SZ/image.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_anime_poker_face": {
+        "url": "https://i.ibb.co/LdP5FNK2/image.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_anime_frieren": {
+        "url": "https://i.ibb.co/kVTz5CQk/image.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_anime_hokuto_no_ken": {
+        "url": "https://i.ibb.co/1tvzfhDy/image.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_anime_no_idea": {
+        "url": "https://i.ibb.co/LdPLmzmy/image.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_anime_pool": {
+        "url": "https://i.ibb.co/7xGgcWSY/image.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_anime_platelet": {
+        "url": "https://i.ibb.co/B5mrngqS/image.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_anime_anya": {
+        "url": "https://i.ibb.co/Q31C0ssR/image.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_sempre_em_frente": {
+        "url": "https://i.ibb.co/spPBq6sy/a09c0689-d7af-4ecc-a9.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_foco_no_ratio": {
+        "url": "https://i.ibb.co/xSjPQRY0/a4144f46-9285-4.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_mais_que_um_tracker": {
+        "url": "https://i.ibb.co/KjNjXb2r/a4144f46-9285.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_sempre_algo_novo": {
+        "url": "https://i.ibb.co/Q35fgcg3/a09c0689-d7af-4ecc-a9e2-6d2bfdd7b0df.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_semeia": {
+        "url": "https://i.ibb.co/4hbKvjf/1.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_organizando_conteudo": {
+        "url": "https://i.ibb.co/zHQBYqJV/24e6c0c6-3172-4252-8709-9040974575f6-1.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_modo_ferias": {
+        "url": "https://i.ibb.co/nxZbx9s/24e6c0c6-3172-4252-8709-9040974575f6.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_seed_forte": {
+        "url": "https://i.ibb.co/LzDj0tjJ/24e6c0c6-3172-4252-8709-9040974575f.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_bora_jogar": {
+        "url": "https://i.ibb.co/6pRnwVw/24e6c0c6-3172-4252-8709-904097457.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_conhecimento_sempre_soma": {
+        "url": "https://i.ibb.co/4wNVspVG/a09c0689-d7af-4ecc-a9e2-6d2bfdd7b0d.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_vida_boa_tambem_faz_parte": {
+        "url": "https://i.ibb.co/5d538Fz/a09c0689-d7af-4ecc-a9e2-6d2bfdd.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_conteudo_de_qualidade": {
+        "url": "https://i.ibb.co/0y61XX8t/2.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_keep_seeding": {
+        "url": "https://i.ibb.co/jvr1psF3/a09c0689-d7af-4ecc-a9e2-6d2b.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_busca_de_novidades": {
+        "url": "https://i.ibb.co/bRbWTYYC/a09c0689-d7af-4ecc-a9e2-6d2.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_boas_conversas": {
+        "url": "https://i.ibb.co/0VhrLVhS/a09c0689-d7af-4ecc-a9e2-6d.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_seed_forca": {
+        "url": "https://i.ibb.co/MydvM2v7/a09c0689-d7af-4ecc-a9e2-6.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_pausa_produtividade": {
+        "url": "https://i.ibb.co/kk2jBTj/a09c0689-d7af-4ecc-a9e.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_weekend": {
+        "url": "https://i.ibb.co/JWC7ptMk/07-finalmente-weekend.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_isso_aqui_e_qualidade": {
+        "url": "https://i.ibb.co/4n2nV2Tp/09-isso-aqui-e-qualidade.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_ate_a_proxima": {
+        "url": "https://i.ibb.co/tpNTxs1X/16-ate-a-proxima.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_seed_descanso": {
+        "url": "https://i.ibb.co/SDb2Vfvq/12-depois-do-seed.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_aprovado": {
+        "url": "https://i.ibb.co/XfvHmfLM/06-aprovado.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_rei_do_seed": {
+        "url": "https://i.ibb.co/pjJfCNKb/05-rei-do-seed.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_compartilhar_e_apoiar": {
+        "url": "https://i.ibb.co/3ynWfchB/11-compartilhar-tambem-e-apoiar.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_semeia_ou_caminha": {
+        "url": "https://i.ibb.co/BMXS0Zq/10-semeia-ou-caminha.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_comunidade_e_tudo": {
+        "url": "https://i.ibb.co/jkNymvPs/17-comunidade-e-tudo.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_baixando": {
+        "url": "https://i.ibb.co/4gdVw20Q/03-baixando.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_respeita_a_comunidade": {
+        "url": "https://i.ibb.co/k2Bk4QbG/13-respeita-a-comunidade.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_02_bom_dia_comunidade": {
+        "url": "https://i.ibb.co/j9FSCJp9/02-bom-dia-comunidade.png",
+        "tags": [
+            "bom",
+            "bom_dia",
+            "dia",
+            "CBR"
+        ]
+    },
+    "cbr_08_mandando_pro_tracker": {
+        "url": "https://i.ibb.co/xtVfTnRV/08-mandando-pro-tracker.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_fig4_riso": {
+        "url": "https://i.ibb.co/ycWRHBvS/fig4.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_fig6_vegeta": {
+        "url": "https://i.ibb.co/Pv8pPb0V/fig6.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_fig2_riso": {
+        "url": "https://i.ibb.co/SX8PkC64/fig2.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_charizard": {
+        "url": "https://i.imgur.com/3zA0ZQt.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_pikachu": {
+        "url": "https://i.imgur.com/dgyjHL9.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_gengar": {
+        "url": "https://i.imgur.com/AZypzrt.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_squirtle": {
+        "url": "https://i.imgur.com/0KiFNkv.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_bulbassauro": {
+        "url": "https://i.imgur.com/OK77rGl.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_eevee": {
+        "url": "https://i.imgur.com/jrEhxOq.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_snorlax": {
+        "url": "https://i.imgur.com/sweXcsj.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_jigglypuff": {
+        "url": "https://i.imgur.com/ypsG1i0.png",
+        "tags": [
+            "CBR"
+        ]
+    },
+    "cbr_dragonite": {
+        "url": "https://i.imgur.com/7VzBPZM.png",
+        "tags": [
+            "CBR"
+        ]
     }
 }

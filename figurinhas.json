@@ -1112,5 +1112,283 @@
         "tags": [
             "CBR"
         ]
+    },
+    "bandeira_brasil": {
+        "url": "https://paises.ibge.gov.br/img/bandeiras/BR.gif",
+        "tags": [
+            "brasil",
+            "bandeira",
+            "pais",
+            "país"
+        ]
+    },
+    "bandeira_portugal": {
+        "url": "https://paises.ibge.gov.br/img/bandeiras/PT.gif",
+        "tags": [
+            "portugal",
+            "bandeira",
+            "pais",
+            "país"
+        ]
+    },
+    "bandeira_japao": {
+        "url": "https://paises.ibge.gov.br/img/bandeiras/JP.gif",
+        "tags": [
+            "japao",
+            "japão",
+            "bandeira",
+            "pais",
+            "país"
+        ]
+    },
+    "bandeira_china": {
+        "url": "https://paises.ibge.gov.br/img/bandeiras/CN.gif",
+        "tags": [
+            "china",
+            "bandeira",
+            "pais",
+            "país"
+        ]
+    },
+    "br_bandeira_acre": {
+        "url": "https://atlasescolar.ibge.gov.br/images/bandeiras/ufs/ac.png",
+        "tags": [
+            "acre",
+            "bandeira",
+            "estado"
+        ]
+    },
+    "br_bandeira_alagoas": {
+        "url": "https://atlasescolar.ibge.gov.br/images/bandeiras/ufs/al.png",
+        "tags": [
+            "alagoas",
+            "bandeira",
+            "estado"
+        ]
+    },
+    "br_bandeira_amapa": {
+        "url": "https://atlasescolar.ibge.gov.br/images/bandeiras/ufs/ap.png",
+        "tags": [
+            "amapa",
+            "amapá",
+            "bandeira",
+            "estado"
+        ]
+    },
+    "br_bandeira_amazonas": {
+        "url": "https://atlasescolar.ibge.gov.br/images/bandeiras/ufs/am.png",
+        "tags": [
+            "amazonas",
+            "bandeira",
+            "estado"
+        ]
+    },
+    "br_bandeira_bahia": {
+        "url": "https://atlasescolar.ibge.gov.br/images/bandeiras/ufs/ba.png",
+        "tags": [
+            "bahia",
+            "bandeira",
+            "estado"
+        ]
+    },
+    "br_bandeira_ceara": {
+        "url": "https://atlasescolar.ibge.gov.br/images/bandeiras/ufs/ce.png",
+        "tags": [
+            "ceara",
+            "ceará",
+            "bandeira",
+            "estado"
+        ]
+    },
+    "br_bandeira_distrito_federal": {
+        "url": "https://atlasescolar.ibge.gov.br/images/bandeiras/ufs/df.png",
+        "tags": [
+            "distrito_federal",
+            "bandeira",
+            "estado"
+        ]
+    },
+    "br_bandeira_espirito_santo": {
+        "url": "https://atlasescolar.ibge.gov.br/images/bandeiras/ufs/es.png",
+        "tags": [
+            "espirito_santo",
+            "espírito_santo",
+            "bandeira",
+            "estado"
+        ]
+    },
+    "br_bandeira_goias": {
+        "url": "https://atlasescolar.ibge.gov.br/images/bandeiras/ufs/go.png",
+        "tags": [
+            "goias",
+            "góias",
+            "bandeira",
+            "estado"
+        ]
+    },
+    "br_bandeira_maranhao": {
+        "url": "https://atlasescolar.ibge.gov.br/images/bandeiras/ufs/ma.png",
+        "tags": [
+            "maranhao",
+            "maranhão",
+            "bandeira",
+            "estado"
+        ]
+    },
+    "br_bandeira_mato_grosso": {
+        "url": "https://atlasescolar.ibge.gov.br/images/bandeiras/ufs/mt.png",
+        "tags": [
+            "mato_grosso",
+            "bandeira",
+            "estado"
+        ]
+    },
+    "br_bandeira_mato_grosso_do_sul": {
+        "url": "https://atlasescolar.ibge.gov.br/images/bandeiras/ufs/ms.png",
+        "tags": [
+            "mato_grosso_do_sul",
+            "bandeira",
+            "estado"
+        ]
+    },
+    "br_bandeira_minas_gerais": {
+        "url": "https://atlasescolar.ibge.gov.br/images/bandeiras/ufs/mg.png",
+        "tags": [
+            "minas_gerais",
+            "bandeira",
+            "estado"
+        ]
+    },
+    "br_bandeira_parana": {
+        "url": "https://atlasescolar.ibge.gov.br/images/bandeiras/ufs/pr.png",
+        "tags": [
+            "parana",
+            "paraná",
+            "bandeira",
+            "estado"
+        ]
+    },
+    "br_bandeira_paraiba": {
+        "url": "https://atlasescolar.ibge.gov.br/images/bandeiras/ufs/pb.png",
+        "tags": [
+            "paraiba",
+            "paraíba",
+            "bandeira",
+            "estado"
+        ]
+    },
+    "br_bandeira_para": {
+        "url": "https://atlasescolar.ibge.gov.br/images/bandeiras/ufs/pa.png",
+        "tags": [
+            "para",
+            "pará",
+            "bandeira",
+            "estado"
+        ]
+    },
+    "br_bandeira_pernambuco": {
+        "url": "https://atlasescolar.ibge.gov.br/images/bandeiras/ufs/pe.png",
+        "tags": [
+            "pernambuco",
+            "bandeira",
+            "estado"
+        ]
+    },
+    "br_bandeira_piaui": {
+        "url": "https://atlasescolar.ibge.gov.br/images/bandeiras/ufs/pi.png",
+        "tags": [
+            "piaui",
+            "piauí",
+            "bandeira",
+            "estado"
+        ]
+    },
+    "br_bandeira_rio_grande_do_norte": {
+        "url": "https://atlasescolar.ibge.gov.br/images/bandeiras/ufs/rn.png",
+        "tags": [
+            "rio_grande_do_norte",
+            "bandeira",
+            "estado"
+        ]
+    },
+    "br_bandeira_rio_grande_do_sul": {
+        "url": "https://atlasescolar.ibge.gov.br/images/bandeiras/ufs/rs.png",
+        "tags": [
+            "rio_grande_do_sul",
+            "bandeira",
+            "estado"
+        ]
+    },
+    "br_bandeira_rio_de_janeiro": {
+        "url": "https://atlasescolar.ibge.gov.br/images/bandeiras/ufs/rj.png",
+        "tags": [
+            "rio_de_janeiro",
+            "bandeira",
+            "estado"
+        ]
+    },
+    "br_bandeira_rondonia": {
+        "url": "https://atlasescolar.ibge.gov.br/images/bandeiras/ufs/ro.png",
+        "tags": [
+            "rondonia",
+            "rondônia",
+            "bandeira",
+            "estado"
+        ]
+    },
+    "br_bandeira_roraima": {
+        "url": "https://atlasescolar.ibge.gov.br/images/bandeiras/ufs/rr.png",
+        "tags": [
+            "roraima",
+            "bandeira",
+            "estado"
+        ]
+    },
+    "br_bandeira_santa_catarina": {
+        "url": "https://atlasescolar.ibge.gov.br/images/bandeiras/ufs/sc.png",
+        "tags": [
+            "santa_catarina",
+            "bandeira",
+            "estado"
+        ]
+    },
+    "br_bandeira_sergipe": {
+        "url": "https://atlasescolar.ibge.gov.br/images/bandeiras/ufs/se.png",
+        "tags": [
+            "sergipe",
+            "bandeira",
+            "estado"
+        ]
+    },
+    "br_bandeira_sao_paulo": {
+        "url": "https://atlasescolar.ibge.gov.br/images/bandeiras/ufs/sp.png",
+        "tags": [
+            "sao_paulo",
+            "são_paulo",
+            "bandeira",
+            "estado"
+        ]
+    },
+    "br_bandeira_tocantins": {
+        "url": "https://atlasescolar.ibge.gov.br/images/bandeiras/ufs/to.png",
+        "tags": [
+            "tocantins",
+            "bandeira",
+            "estado"
+        ]
+    },
+    "meme_will_smith_confia": {
+        "url": "https://s1.static.brasilescola.uol.com.br/be/2022/10/meme-will-smith-confia.jpg",
+        "tags": [
+            "confia",
+            "meme"
+        ]
+    },
+    "meme_eu_sabo": {
+        "url": "https://i.kym-cdn.com/photos/images/original/002/636/580/82d.jpg",
+        "tags": [
+            "eu_sabo",
+            "meme"
+        ]
     }
 }
